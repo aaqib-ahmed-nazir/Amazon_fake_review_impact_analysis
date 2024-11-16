@@ -99,6 +99,9 @@ The analysis provides insights into:
 
 This project is licensed under the MIT License - see the [MIT License](https://opensource.org/license/MIT) file for details.
 
+## Disclaimer
+
+This Amazon scraper is intended for educational purposes only. Please ensure that your use of this tool complies with Amazon's terms of service and any applicable laws and regulations.
 
 ## Contributing
 
